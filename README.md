@@ -4,7 +4,7 @@
   
 [![AWS Golden Jacket](https://img.shields.io/badge/AWS-Golden%20Jacket-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/developer/community/heroes/)
 [![ITIL 4 Managing Professional](https://img.shields.io/badge/ITIL%204-Managing%20Professional-0066CC?style=for-the-badge)](https://www.axelos.com/certifications/itil-service-management)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirecekd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/mirecekd/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mirecekd)
 
 </div>
