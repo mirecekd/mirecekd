@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miroslav Dvorak
+Miroslav Dvorak
 
 <div align="center">
   
