@@ -44,7 +44,7 @@ DevOps Engineer with **30+ years of experience** in system administration, cloud
 
 ## 🔥 Featured Projects
 
-### 🔧 [n8n-workflows](https://github.com/mirecekd/n8n-workflows)
+### 🔧 [n8n-medium](https://github.com/mirecekd/n8n-medium)
 Collection of n8n workflow automations for various use cases published on Medium.
 
 **Tech stack:** `n8n` `Automation` `Workflows`
