@@ -11,7 +11,7 @@
 
 <div align="center">
   
-If you like my work you can [![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://buymeacoffee.com/mirecekdg)
+[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://buymeacoffee.com/mirecekdg)
 
 
 </div>
