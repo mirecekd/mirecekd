@@ -20,7 +20,7 @@ Miroslav Dvorak
 
 ## 🚀 About Me
 
-DevOps Engineer with **30+ years of experience** in system administration, cloud technologies, and automation. Currently working at **Trustsoft** as DevOps Cloud Engineer, specializing in AWS infrastructure, Kubernetes, and GenAI application development.
+Cloud Architect & DevOps Engineer with **30+ years of experience** in system administration, cloud technologies, and automation. Currently working at **Trustsoft** as DevOps Cloud Engineer, specializing in AWS infrastructure, Kubernetes, and GenAI application development.
 
 ### 🎯 Current Focus
 - 🏗️ **AWS Infrastructure** - Architecting and managing cloud solutions
