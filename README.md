@@ -13,6 +13,9 @@ Miroslav Dvorak
   
 [![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://buymeacoffee.com/mirecekdg)
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="mirecekdg" data-color="#FFDD00" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+
 </div>
 
 
