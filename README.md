@@ -10,8 +10,10 @@
 </div>
 
 <div align="center">
-If you like my work you can [![buy me a beer](https://buymeacoffee.com/mirecekdg)]
   
+If you like my work you can [![Buy Me a Beer](https://img.shields.io/badge/Buy%20Me%20a%20Beer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://buymeacoffee.com/mirecekdg)
+
+
 </div>
 
 
