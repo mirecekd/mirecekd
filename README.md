@@ -10,8 +10,7 @@
 </div>
 
 <div align="center">
-If you like my work you can [buy me a beer](https://buymeacoffee.com/mirecekdg)
-
+If you like my work you can [![buy me a beer](https://buymeacoffee.com/mirecekdg)]
   
 </div>
 
