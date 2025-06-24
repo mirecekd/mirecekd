@@ -53,7 +53,7 @@ Model Context Protocol server for bakalari.cz integration - proof of concept for
 
 **Tech stack:** `Python` `MCP` `SSE` `CLI`
 
-### 🎥 [novareel-mcp-server](https://github.com/mirecekd/novareel-mcp-server)
+### 🎥 [novareel-mcp](https://github.com/mirecekd/novareel-mcp)
 Model Context Protocol server for generating videos with Amazon Nova Reel 1.1.
 
 **Tech stack:** `Python` `MCP` `SSE` `CLI`
