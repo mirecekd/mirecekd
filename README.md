@@ -53,6 +53,11 @@ Model Context Protocol server for bakalari.cz integration - proof of concept for
 
 **Tech stack:** `Python` `MCP` `SSE` `CLI`
 
+### 🎥 [novareel-mcp-server](https://github.com/mirecekd/novareel-mcp-server)
+Model Context Protocol server for generating videos with Amazon Nova Reel 1.1.
+
+**Tech stack:** `Python` `MCP` `SSE` `CLI`
+
 ### 🏠 [atoms-for-girls](https://github.com/mirecekd/atoms-for-girls)
 M5Stack Atom Echo microphone system integrated with Home Assistant Assist. Voice control for smart home using wake word detection and GPT-3.5 model.
 
