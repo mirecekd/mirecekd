@@ -63,6 +63,12 @@ M5Stack Atom Echo microphone system integrated with Home Assistant Assist. Voice
 
 **Tech stack:** `ESP32` `Home Assistant` `OpenAI GPT-3.5` `M5Stack`
 
+
+### 🚗 [tesla-kecal](https://github.com/mirecekd/tesla-kecal)
+Tesla Kecal creates a unified voice interface designed primarily for in-car use that allows you to talk to Home Assistant Assist, Perplexity AI or any other voice capable app. Usable with every in-car bluetooth audio systems, not only Tesla cars.
+
+**Tech stack:** `Home Assistant` `Tasker` `AutoInput` `AutoVoice` `Home Assistant Companion App` `Perplexity`
+
 ## 📊 GitHub Stats
 
 <div align="center">
