@@ -56,6 +56,9 @@ Model Context Protocol server for bakalari.cz integration - proof of concept for
 ### 🏠 [atoms-for-girls](https://github.com/mirecekd/atoms-for-girls)
 M5Stack Atom Echo microphone system integrated with Home Assistant Assist. Voice control for smart home using wake word detection and GPT-3.5 model.
 
+### 🚗 [tesla-kecal](https://github.com/mirecekd/tesla-kecal)
+Tesla Kecal creates a unified voice interface designed primarily for in-car use that allows you to talk to Home Assistant Assist, Perplexity AI or any other voice capable app. Usable with every in-car bluetooth audio systems, not only Tesla cars.
+
 **Tech stack:** `ESP32` `Home Assistant` `OpenAI GPT-3.5` `M5Stack`
 
 ## 📊 GitHub Stats
