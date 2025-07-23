@@ -1,7 +1,7 @@
-Miroslav Dvorak
-
 <div align="center">
-  
+
+# Miroslav Dvorak
+
 [![AWS Golden Jacket](https://img.shields.io/badge/AWS-Golden%20Jacket-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/developer/community/heroes/)
 [![ITIL 4 Managing Professional](https://img.shields.io/badge/ITIL%204-Managing%20Professional-0066CC?style=for-the-badge)](https://www.axelos.com/certifications/itil-service-management)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/mirecekd/)
@@ -11,7 +11,7 @@ Miroslav Dvorak
 
 <div align="center">  
   
-[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20🍺-FFDD00?style=for-the-badge&logoColor=white)](https://buymeacoffee.com/mirecekdg)
+[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20🍺-027833?style=for-the-badge&logoColor=white)](https://buymeacoffee.com/mirecekdg)
 
 </div>
 
@@ -19,7 +19,7 @@ Miroslav Dvorak
 
 ## 🚀 About Me
 
-Cloud Architect & DevOps Engineer with **30+ years of experience** in system administration, cloud technologies, and automation. Currently working at **Trustsoft** as DevOps Cloud Engineer, specializing in AWS infrastructure, Kubernetes, and GenAI application development.
+Cloud Architect & DevOps Engineer with **30+ years of experience** in system administration, cloud technologies, and automation. Currently working as DevOps Cloud Engineer, specializing in AWS infrastructure and GenAI application development.
 
 ### 🎯 Current Focus
 - 🏗️ **AWS Infrastructure** - Architecting and managing cloud solutions
@@ -54,6 +54,11 @@ Model Context Protocol server for bakalari.cz integration - proof of concept for
 
 **Tech stack:** `Python` `MCP` `SSE` `CLI`
 
+### 🎥 [novareel-mcp](https://github.com/mirecekd/novareel-mcp)
+Model Context Protocol server for generating videos with Amazon Nova Reel 1.1.
+
+**Tech stack:** `Python` `MCP` `SSE` `CLI`
+
 ### 🏠 [atoms-for-girls](https://github.com/mirecekd/atoms-for-girls)
 M5Stack Atom Echo microphone system integrated with Home Assistant Assist. Voice control for smart home using wake word detection and GPT-3.5 model.
 
@@ -63,6 +68,13 @@ M5Stack Atom Echo microphone system integrated with Home Assistant Assist. Voice
 Tesla Kecal creates a unified voice interface designed primarily for in-car use that allows you to talk to Home Assistant Assist, Perplexity AI or any other voice capable app. Usable with every in-car bluetooth audio systems, not only Tesla cars.
 
 **Tech stack:** `Home Assistant` `Tasker` `AutoInput` `AutoVoice` `Home Assistant Companion App` `Perplexity`
+
+### 💻 [PIPKA](https://github.com/mirecekd/pipka)
+PIPKA is an AI-powered tool that provides a user-friendly web interface to [open-interpreter](https://github.com/openinterpreter/open-interpreter) executing code and interacting with AI models like Claude and GPT through natural language conversations. It can generate, run, and debug code automatically, analyze datasets, manage files, and integrate with cloud services, making it ideal for users who want to accomplish programming tasks through simple chat-like interactions rather than traditional coding.
+
+**Tech stack:** `open-interpreter` `Streamlit` `python`
+
+
 
 ## 📊 GitHub Stats
 
