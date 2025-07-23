@@ -31,7 +31,7 @@ Cloud Architect & DevOps Engineer with **30+ years of experience** in system adm
 ## 🛠️ Technologies & Tools
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-ff9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -40,6 +40,7 @@ Cloud Architect & DevOps Engineer with **30+ years of experience** in system adm
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-E3496D?style=flat-square&logo=n8n&logoColor=white)
 
 ## 🔥 Featured Projects
 
@@ -56,10 +57,12 @@ Model Context Protocol server for bakalari.cz integration - proof of concept for
 ### 🏠 [atoms-for-girls](https://github.com/mirecekd/atoms-for-girls)
 M5Stack Atom Echo microphone system integrated with Home Assistant Assist. Voice control for smart home using wake word detection and GPT-3.5 model.
 
+**Tech stack:** `ESP32` `Home Assistant` `OpenAI GPT-3.5` `M5Stack`
+
 ### 🚗 [tesla-kecal](https://github.com/mirecekd/tesla-kecal)
 Tesla Kecal creates a unified voice interface designed primarily for in-car use that allows you to talk to Home Assistant Assist, Perplexity AI or any other voice capable app. Usable with every in-car bluetooth audio systems, not only Tesla cars.
 
-**Tech stack:** `ESP32` `Home Assistant` `OpenAI GPT-3.5` `M5Stack`
+**Tech stack:** `Home Assistant` `Tasker` `AutoInput` `AutoVoice` `Home Assistant Companion App` `Perplexity`
 
 ## 📊 GitHub Stats
 
