@@ -72,10 +72,13 @@ Tesla Kecal creates a unified voice interface designed primarily for in-car use 
 ### 💻 [PIPKA](https://github.com/mirecekd/pipka)
 PIPKA is an AI-powered tool that provides a user-friendly web interface to [open-interpreter](https://github.com/openinterpreter/open-interpreter) executing code and interacting with AI models like Claude and GPT through natural language conversations. It can generate, run, and debug code automatically, analyze datasets, manage files, and integrate with cloud services, making it ideal for users who want to accomplish programming tasks through simple chat-like interactions rather than traditional coding.
 
-**Tech stack:** `open-interpreter` `Streamlit` `python`
+**Tech stack:** `open-interpreter` `Streamlit` `Python`
 
 ### 📖 [awsblogs-mcp](https://github.com/mirecekd/awsblogs-mcp)
 MCP server for working with AWS Blog and News articles
+
+**Tech stack:** `Python` `MCP` `SSE`
+
 
 ## 📊 GitHub Stats
 
@@ -99,6 +102,6 @@ MCP server for working with AWS Blog and News articles
 
 *"Technology enthusiast. IoT and OSS developer, home automation and smart home/house builder, 3D designer, 3D maker."*
 
-⭐ **If you like my projects, don't forget to give them a star!** ⭐
+⭐ **If you like my projects, don't forget to give them a star and [buy me a beer](https://buymeacoffee.com/mirecekdg)!** ⭐
 
 </div>
