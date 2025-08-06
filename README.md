@@ -74,7 +74,8 @@ PIPKA is an AI-powered tool that provides a user-friendly web interface to [open
 
 **Tech stack:** `open-interpreter` `Streamlit` `python`
 
-
+### 📖 [awsblogs-mcp](https://github.com/mirecekd/awsblogs-mcp)
+MCP server for working with AWS Blog and News articles
 
 ## 📊 GitHub Stats
 
