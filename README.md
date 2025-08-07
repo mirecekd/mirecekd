@@ -79,6 +79,8 @@ MCP server for working with AWS Blog and News articles
 
 **Tech stack:** `Python` `MCP` `SSE`
 
+## [MirecekD AI Youtube channel](https://www.youtube.com/@mirecekd_ai)
+Every day, AI prepares fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere!
 
 ## 📊 GitHub Stats
 
