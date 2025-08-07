@@ -69,7 +69,7 @@ Tesla Kecal creates a unified voice interface designed primarily for in-car use 
 
 **Tech stack:** `Home Assistant` `Tasker` `AutoInput` `AutoVoice` `Home Assistant Companion App` `Perplexity`
 
-### 💻 [PIPKA](https://github.com/mirecekd/pipka)
+### 💻 [pipka](https://github.com/mirecekd/pipka)
 PIPKA is an AI-powered tool that provides a user-friendly web interface to [open-interpreter](https://github.com/openinterpreter/open-interpreter) executing code and interacting with AI models like Claude and GPT through natural language conversations. It can generate, run, and debug code automatically, analyze datasets, manage files, and integrate with cloud services, making it ideal for users who want to accomplish programming tasks through simple chat-like interactions rather than traditional coding.
 
 **Tech stack:** `open-interpreter` `Streamlit` `Python`
