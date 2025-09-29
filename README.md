@@ -16,7 +16,6 @@
 </div>
 
 
-
 ## 🚀 About Me
 
 Cloud Architect & DevOps Engineer with **30+ years of experience** in system administration, cloud technologies, and automation. Currently working as DevOps Cloud Engineer, specializing in AWS infrastructure and GenAI application development.
@@ -48,6 +47,11 @@ Cloud Architect & DevOps Engineer with **30+ years of experience** in system adm
 Collection of n8n workflow automations for various use cases published on Medium.
 
 **Tech stack:** `n8n` `Automation` `Workflows`
+
+### 🎓 [stravacz-mcp](https://github.com/mirecekd/stravacz-mcp)
+Model Context Protocol server for strava.cz integration - proof of concept for meal ordering systems.
+
+**Tech stack:** `Python` `MCP` `CLI`
 
 ### 🎓 [bakalari-mcp](https://github.com/mirecekd/bakalari-mcp)
 Model Context Protocol server for bakalari.cz integration - proof of concept for educational systems.
