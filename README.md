@@ -83,8 +83,13 @@ MCP server for working with AWS Blog and News articles
 
 **Tech stack:** `Python` `MCP` `SSE`
 
+### 📝 [diktátOR](https://github.com/mirecekd/diktatOR)
+AI application for practicing Czech dictations. Generates sentences using Google Gemini, dictates them via TTS, reads handwritten text from photos using Gemini, and provides detailed evaluation with constructive feedback.
+
+**Tech stack:** `Python` `Flask` `Google Gemini API` `gtts` `HTML5/CSS3/JavaScript`
+
 ## [MirecekD AI Youtube channel](https://www.youtube.com/@mirecekd_ai)
-Every day, AI prepares fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere! How it work you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
+Every day, AI prepared fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere! How it work you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
 
 ## 📊 GitHub Stats
 
