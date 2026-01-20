@@ -88,6 +88,11 @@ AI application for practicing Czech dictations. Generates sentences using Google
 
 **Tech stack:** `Python` `Flask` `Google Gemini API` `gtts` `HTML5/CSS3/JavaScript`
 
+### 🎙️ [Voice Oriented Content Aggregation System](https://github.com/mirecekd/vocas)
+Web reading proxy that transforms any news website (and more) into a voice-friendly experience. Provides AI-powered voice responses with multiple TTS providers, allowing users to listen to web content through natural voice synthesis.
+
+**Tech stack:** `Python` `FastAPI` `LLM` `TTS` `Edge TTS` `Amazon Polly` `ElevenLabs` `Docker`
+
 ## [MirecekD AI Youtube channel](https://www.youtube.com/@mirecekd_ai)
 Every day, AI prepared fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere! How it work you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
 
