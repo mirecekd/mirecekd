@@ -104,10 +104,8 @@ Every day, AI prepared fresh news from the field of AI for you, which is created
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mirecekd">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mirecekd&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mirecekd&layout=compact&theme=dark&hide_border=true&langs_count=10" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mirecekd&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mirecekd&layout=compact&theme=dark&hide_border=true&langs_count=10" />
 </div>
 
 ## 💬 Contact
