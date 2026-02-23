@@ -101,13 +101,17 @@ Czech AI text humanizer skill for Claude AI. Detects and removes signs of AI-gen
 ## [MirecekD AI Youtube channel](https://www.youtube.com/@mirecekd_ai)
 Every day, AI prepared fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere! How it work you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirecekd&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirecekd&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mirecekd&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mirecekd&layout=compact&theme=dark&hide_border=true&langs_count=10)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mirecekd&theme=dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirecekd&theme=github-dark&hide_border=true)
 
 </div>
 
