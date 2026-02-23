@@ -43,6 +43,11 @@ Cloud Architect & DevOps Engineer with **30+ years of experience** in system adm
 
 ## 🔥 Featured Projects
 
+### 🤖 [Agent Zero](https://github.com/frdel/agent-zero)
+Personal AI agent framework — organic, self-developing, fully transparent. I actively use and develop skills for Agent Zero, including humanizer-cz and other automation tools.
+
+**Tech stack:** `Python` `LLM` `Docker` `Agent Framework`
+
 ### 🔧 [n8n-medium](https://github.com/mirecekd/n8n-medium)
 Collection of n8n workflow automations for various use cases published on Medium.
 
