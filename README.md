@@ -93,6 +93,11 @@ Web reading proxy that transforms any news website (and more) into a voice-frien
 
 **Tech stack:** `Python` `FastAPI` `LLM` `TTS` `Edge TTS` `Amazon Polly` `ElevenLabs` `Docker`
 
+### 🇨🇿 [humanizer-cz](https://github.com/mirecekd/humanizer-cz)
+Czech AI text humanizer skill for Claude AI. Detects and removes signs of AI-generated writing from Czech text based on academic research (Masaryk University, Charles University, KInIT). Includes 27 AI writing patterns, CLI analysis tool with Masaryk University NLP API integration, and a 14-step editing process.
+
+**Tech stack:** `Python` `Claude AI` `NLP` `Masaryk University API`
+
 ## [MirecekD AI Youtube channel](https://www.youtube.com/@mirecekd_ai)
 Every day, AI prepared fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere! How it work you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
 
