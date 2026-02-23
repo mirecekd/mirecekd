@@ -109,10 +109,6 @@ Every day, AI prepared fresh news from the field of AI for you, which is created
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mirecekd&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mirecekd&theme=dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirecekd&theme=github-dark&hide_border=true)
-
 </div>
 
 ## 💬 Contact
