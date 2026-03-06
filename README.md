@@ -98,6 +98,11 @@ Czech AI text humanizer skill for Claude AI. Detects and removes signs of AI-gen
 
 **Tech stack:** `Python` `Claude AI` `NLP` `Masaryk University API`
 
+### 🦙 [yatca](https://github.com/mirecekd/yatca)
+YATCA (Yet Another Telegram Connector for Agent-zero) is a full-featured Telegram bot bridge for Agent Zero. Send messages, photos, and files to your Agent Zero instance directly from Telegram. Includes 11 slash commands for agent control, task scheduling, project switching, and paste-and-go installation.
+
+**Tech stack:** `Python` `python-telegram-bot` `Agent Zero` `aiohttp`
+
 ## [MirecekD AI Youtube channel](https://www.youtube.com/@mirecekd_ai)
 Every day, AI prepared fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere! How it work you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
 
