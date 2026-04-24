@@ -9,11 +9,12 @@
 
 </div>
 
-<div align="center">  
-  
-[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20🍺-027833?style=for-the-badge&logoColor=white)](https://buymeacoffee.com/mirecekdg)
+<div align="center">
+
+[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20🍺-027833?style=for-the-badge&logoColor=white)](https://buymeacoffee.com/mirecekdg) [![PayPal](https://img.shields.io/badge/or%20send%20me%20a%20tip%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=LJ5ZF7Q9KMTRW&no_recurring=0&currency_code=USD)
 
 </div>
+
 
 
 ## 🚀 About Me
@@ -125,6 +126,17 @@ Every day, AI prepared fresh news from the field of AI for you, which is created
 
 *"Technology enthusiast. IoT and OSS developer, home automation and smart home/house builder, 3D designer, 3D maker."*
 
-⭐ **If you like my projects, don't forget to give them a star and [buy me a beer](https://buymeacoffee.com/mirecekdg)!** ⭐
+⭐ **If you like my projects, don't forget to give them a star!** ⭐
 
 </div>
+
+## Support
+
+If this tool is useful to you, you can support development:
+
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg) [!["PayPal.me"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=LJ5ZF7Q9KMTRW&no_recurring=0&currency_code=USD)
+
+</div>
+
