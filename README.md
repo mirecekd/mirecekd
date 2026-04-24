@@ -2,7 +2,7 @@
 
 # Miroslav Dvorak
 
-[![AWS Golden Jacket](https://img.shields.io/badge/AWS-Golden%20Jacket-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/developer/community/heroes/)
+[![AWS Golden Jacket](https://img.shields.io/badge/AWS-Golden%20Jacket-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://pages.awscloud.com/GLOBAL-event-T1-AWS-re-Invent-Golden-Jacket-2025-reg.html)
 [![ITIL 4 Managing Professional](https://img.shields.io/badge/ITIL%204-Managing%20Professional-0066CC?style=for-the-badge)](https://www.axelos.com/certifications/itil-service-management)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/mirecekd/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mirecekd)
@@ -132,7 +132,7 @@ Every day, AI prepared fresh news from the field of AI for you, which is created
 
 ## Support
 
-If this tool is useful to you, you can support development:
+You can support my free-time development:
 
 <div align="center">
 
