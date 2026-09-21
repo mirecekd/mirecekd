@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20🍺-027833?style=for-the-badge&logoColor=white)](https://buymeacoffee.com/mirecekdg) [![PayPal](https://img.shields.io/badge/or%20send%20me%20a%20tip%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mirecekd)
+[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20🍺-027833?style=for-the-badge&logoColor=white)](https://buymeacoffee.com/mirecekd) [![PayPal](https://img.shields.io/badge/or%20send%20me%20a%20tip%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mirecekd)
 
 </div>
 
@@ -136,7 +136,7 @@ You can support my free-time development:
 
 <div align="center">
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg) [!["PayPal.me"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/mirecekd)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekd) [!["PayPal.me"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/mirecekd)
 
 </div>
 
