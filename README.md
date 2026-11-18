@@ -1,138 +1,174 @@
-<div align="center">
-
-# Miroslav Dvorak
-
-[![AWS Golden Jacket](https://img.shields.io/badge/AWS-Golden%20Jacket-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://pages.awscloud.com/GLOBAL-event-T1-AWS-re-Invent-Golden-Jacket-2025-reg.html)
-[![ITIL 4 Managing Professional](https://img.shields.io/badge/ITIL%204-Managing%20Professional-0066CC?style=for-the-badge)](https://www.axelos.com/certifications/itil-service-management)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/mirecekd/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mirecekd)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:202323,55:303635,100:e7ac80&text=Miroslav%20Dvorak&fontColor=f1d6b4&fontSize=58&fontAlignY=38&desc=Cloud%20Architect%20%C2%B7%20DevOps%20%C2%B7%20AWS%20%C2%B7%20GenAI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Miroslav Dvorak" />
 
 <div align="center">
 
-[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20🍺-027833?style=for-the-badge&logoColor=white)](https://buymeacoffee.com/mirecekd) [![PayPal](https://img.shields.io/badge/or%20send%20me%20a%20tip%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mirecekd)
+[![AWS Golden Jacket](https://img.shields.io/badge/AWS-Golden%20Jacket-e7ac80?style=for-the-badge&logo=amazon-aws&logoColor=e7ac80&labelColor=303635)](https://pages.awscloud.com/GLOBAL-event-T1-AWS-re-Invent-Golden-Jacket-2025-reg.html)
+[![ITIL 4 Managing Professional](https://img.shields.io/badge/ITIL%204-Managing%20Professional-e7ac80?style=for-the-badge&labelColor=303635)](https://www.axelos.com/certifications/itil-service-management)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mirecekd-e7ac80?style=for-the-badge&logo=linkedin&logoColor=e7ac80&labelColor=303635)](https://www.linkedin.com/in/mirecekd/)
+[![Credly](https://img.shields.io/badge/Credly-certifications-e7ac80?style=for-the-badge&logo=credly&logoColor=e7ac80&labelColor=303635)](https://www.credly.com/users/mirecekd)
+![Profile views](https://komarev.com/ghpvc/?username=mirecekd&style=for-the-badge&color=e7ac80&labelColor=303635&label=PROFILE+VIEWS)
+
+[![Buy Me a Beer](https://img.shields.io/badge/If%20you%20like%20my%20work%20you%20can-Buy%20Me%20a%20Beer%20%F0%9F%8D%BA-e7ac80?style=for-the-badge&labelColor=303635)](https://buymeacoffee.com/mirecekd) [![PayPal](https://img.shields.io/badge/or%20send%20me%20a%20tip%20via-PayPal-e7ac80?style=for-the-badge&logo=paypal&logoColor=e7ac80&labelColor=303635)](https://www.paypal.me/mirecekd)
 
 </div>
-
-
 
 ## 🚀 About Me
 
-Cloud Architect & DevOps Engineer with **30+ years of experience** in system administration, cloud technologies, and automation. Currently working as DevOps Cloud Engineer, specializing in AWS infrastructure and GenAI application development.
-
-### 🎯 Current Focus
-- 🏗️ **AWS Infrastructure** - Architecting and managing cloud solutions
-- 🤖 **GenAI Development** - Building applications with LLM, RAG, and Knowledge Bases
-- ⚙️ **DevOps & Automation** - CI/CD, IaC, Kubernetes
-- 🏠 **IoT & Home Automation** - Smart home projects and automation
-- ☀️ **Solar Energy & EVs** - Photovoltaic systems and battery electric vehicle technologies
+Cloud Architect & DevOps Engineer with **30+ years of experience** in system administration, cloud technologies and automation. Specializing in AWS infrastructure and GenAI application development.
 
 ## 🛠️ Technologies & Tools
 
-### ☁️ Cloud & DevOps
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-ff9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-E3496D?style=flat-square&logo=n8n&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,python,bash,githubactions,linux&perline=9&theme=dark" alt="Tech stack" />
+</p>
 
 ## 🔥 Featured Projects
 
-### 🔧 [n8n-medium](https://github.com/mirecekd/n8n-medium)
-Collection of n8n workflow automations for various use cases published on Medium.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech stack:** `n8n` `Automation` `Workflows`
+#### 🎥 [novareel-mcp](https://github.com/mirecekd/novareel-mcp)
 
-### 🎓 [stravacz-mcp](https://github.com/mirecekd/stravacz-mcp)
-Model Context Protocol server for strava.cz integration - proof of concept for meal ordering systems.
+MCP server for generating videos with Amazon Nova Reel 1.1.
 
-**Tech stack:** `Python` `MCP` `CLI`
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/MCP-server-e7ac80?style=flat-square&labelColor=303635" />
+<img src="https://img.shields.io/badge/AWS-Bedrock-e7ac80?style=flat-square&logo=amazon-aws&logoColor=e7ac80&labelColor=303635" />
 
-### 🎓 [bakalari-mcp](https://github.com/mirecekd/bakalari-mcp)
-Model Context Protocol server for bakalari.cz integration - proof of concept for educational systems.
+</td>
+<td width="50%" valign="top">
 
-**Tech stack:** `Python` `MCP` `SSE` `CLI`
+#### 📖 [awsblogs-mcp](https://github.com/mirecekd/awsblogs-mcp)
 
-### 🎥 [novareel-mcp](https://github.com/mirecekd/novareel-mcp)
-Model Context Protocol server for generating videos with Amazon Nova Reel 1.1.
+MCP server for reading AWS Blog and News articles from your AI client.
 
-**Tech stack:** `Python` `MCP` `SSE` `CLI`
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/MCP-server-e7ac80?style=flat-square&labelColor=303635" />
+<img src="https://img.shields.io/badge/SSE-303635?style=flat-square&logoColor=e7ac80" />
 
-### 🏠 [atoms-for-girls](https://github.com/mirecekd/atoms-for-girls)
-M5Stack Atom Echo microphone system integrated with Home Assistant Assist. Voice control for smart home using wake word detection and GPT-3.5 model.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech stack:** `ESP32` `Home Assistant` `OpenAI GPT-3.5` `M5Stack`
+#### 🎓 [stravacz-mcp](https://github.com/mirecekd/stravacz-mcp)
 
-### 🚗 [tesla-kecal](https://github.com/mirecekd/tesla-kecal)
-Tesla Kecal creates a unified voice interface designed primarily for in-car use that allows you to talk to Home Assistant Assist, Perplexity AI or any other voice capable app. Usable with every in-car bluetooth audio systems, not only Tesla cars.
+Unofficial MCP server for strava.cz, the Czech school-canteen meal ordering system.
 
-**Tech stack:** `Home Assistant` `Tasker` `AutoInput` `AutoVoice` `Home Assistant Companion App` `Perplexity`
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/MCP-server-e7ac80?style=flat-square&labelColor=303635" />
+<img src="https://img.shields.io/badge/CLI-303635?style=flat-square" />
 
-### 💻 [pipka](https://github.com/mirecekd/pipka)
-PIPKA is an AI-powered tool that provides a user-friendly web interface to [open-interpreter](https://github.com/openinterpreter/open-interpreter) executing code and interacting with AI models like Claude and GPT through natural language conversations. It can generate, run, and debug code automatically, analyze datasets, manage files, and integrate with cloud services, making it ideal for users who want to accomplish programming tasks through simple chat-like interactions rather than traditional coding.
+</td>
+<td width="50%" valign="top">
 
-**Tech stack:** `open-interpreter` `Streamlit` `Python`
+#### 🎓 [bakalari-mcp](https://github.com/mirecekd/bakalari-mcp)
 
-### 📖 [awsblogs-mcp](https://github.com/mirecekd/awsblogs-mcp)
-MCP server for working with AWS Blog and News articles
+MCP server (SSE + CLI) for bakalari.cz, a proof of concept for educational systems.
 
-**Tech stack:** `Python` `MCP` `SSE`
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/MCP-server-e7ac80?style=flat-square&labelColor=303635" />
+<img src="https://img.shields.io/badge/SSE-303635?style=flat-square" />
 
-### 📝 [diktátOR](https://github.com/mirecekd/diktatOR)
-AI application for practicing Czech dictations. Generates sentences using Google Gemini, dictates them via TTS, reads handwritten text from photos using Gemini, and provides detailed evaluation with constructive feedback.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech stack:** `Python` `Flask` `Google Gemini API` `gtts` `HTML5/CSS3/JavaScript`
+#### 🏠 [atoms-for-girls](https://github.com/mirecekd/atoms-for-girls)
 
-### 🎙️ [Voice Oriented Content Aggregation System](https://github.com/mirecekd/vocas)
-Web reading proxy that transforms any news website (and more) into a voice-friendly experience. Provides AI-powered voice responses with multiple TTS providers, allowing users to listen to web content through natural voice synthesis.
+M5Stack Atom Echo microphone system for Home Assistant Assist: wake word, voice control of the smart home.
 
-**Tech stack:** `Python` `FastAPI` `LLM` `TTS` `Edge TTS` `Amazon Polly` `ElevenLabs` `Docker`
+<img src="https://img.shields.io/badge/ESP32-303635?style=flat-square&logo=espressif&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Home%20Assistant-303635?style=flat-square&logo=homeassistant&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/stars-27-e7ac80?style=flat-square&labelColor=303635" />
 
-### 🇨🇿 [humanizer-cz](https://github.com/mirecekd/humanizer-cz)
-Czech AI text humanizer skill for Claude AI. Detects and removes signs of AI-generated writing from Czech text based on academic research (Masaryk University, Charles University, KInIT). Includes 27 AI writing patterns, CLI analysis tool with Masaryk University NLP API integration, and a 14-step editing process.
+</td>
+<td width="50%" valign="top">
 
-**Tech stack:** `Python` `Claude AI` `NLP` `Masaryk University API`
+#### 🚗 [tesla-kecal](https://github.com/mirecekd/tesla-kecal)
 
-### 🦙 [yatca](https://github.com/mirecekd/yatca)
-YATCA (Yet Another Telegram Connector for Agent-zero) is a full-featured Telegram bot bridge for Agent Zero. Send messages, photos, and files to your Agent Zero instance directly from Telegram. Includes 11 slash commands for agent control, task scheduling, project switching, and paste-and-go installation.
+Unified in-car voice interface to Home Assistant Assist or Perplexity AI. Works with any Bluetooth car audio.
 
-**Tech stack:** `Python` `python-telegram-bot` `Agent Zero` `aiohttp`
+<img src="https://img.shields.io/badge/Home%20Assistant-303635?style=flat-square&logo=homeassistant&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Tasker-303635?style=flat-square" />
+<img src="https://img.shields.io/badge/Perplexity-303635?style=flat-square" />
 
-## [MirecekD AI Youtube channel](https://www.youtube.com/@mirecekd_ai)
-Every day, AI prepared fresh news from the field of AI for you, which is created entirely using AI and in Czech. From text content to visual elements, there is no involvment of biobatteries anywhere! How it work you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## GitHub Stats
+#### 🎙️ [vocas](https://github.com/mirecekd/vocas)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=mirecekd&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api/top-langs/?username=mirecekd&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" />
-</div>
+Web reading proxy that turns any news site into a voice-friendly experience with multiple TTS providers.
+
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/FastAPI-303635?style=flat-square&logo=fastapi&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Docker-303635?style=flat-square&logo=docker&logoColor=e7ac80" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 📝 [diktatOR](https://github.com/mirecekd/diktatOR)
+
+AI app for practicing Czech dictations: Gemini generates, TTS dictates, handwriting from photos is evaluated.
+
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Flask-303635?style=flat-square&logo=flask&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Gemini-303635?style=flat-square&logo=googlegemini&logoColor=e7ac80" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🇨🇿 [humanizer-cz](https://github.com/mirecekd/humanizer-cz)
+
+Czech AI text humanizer skill: 27 AI writing patterns, CLI tool, 14-step editing process.
+
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Claude-skill-e7ac80?style=flat-square&labelColor=303635" />
+<img src="https://img.shields.io/badge/NLP-303635?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🦙 [yatca](https://github.com/mirecekd/yatca)
+
+Telegram bot bridge for Agent Zero: 11 slash commands, task scheduling, paste-and-go install.
+
+<img src="https://img.shields.io/badge/Python-303635?style=flat-square&logo=python&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Telegram-303635?style=flat-square&logo=telegram&logoColor=e7ac80" />
+<img src="https://img.shields.io/badge/Agent%20Zero-303635?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirecekd&theme=gruvbox" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=mirecekd&hide_border=true&background=202323&ring=e7ac80&fire=e7ac80&currStreakNum=f1d6b4&sideNums=f1d6b4&currStreakLabel=e7ac80&sideLabels=bdbcb5&dates=bdbcb5" alt="Streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirecekd&theme=gruvbox" alt="Languages" />
+</p>
+
+## 🎬 MirecekD AI Youtube channel
+
+Every day, AI prepared fresh news from the field of AI for you, created entirely using AI and in Czech. How it works you can discover in my [medium.com series about N8N](https://medium.com/@mirecekd/list/serial-o-n8n-9fbddd460f2b).
 
 ## 💬 Contact
 
-- 💼 **LinkedIn:** [mirecekd](https://www.linkedin.com/in/mirecekd/)
-- 🏆 **Credly:** [View my certifications](https://www.credly.com/users/mirecekd)
-- 📧 **Email:** Available via LinkedIn
+- Web: [www.mirecek.org](https://www.mirecek.org)
+- LinkedIn: [mirecekd](https://www.linkedin.com/in/mirecekd/)
+- Credly: [View my certifications](https://www.credly.com/users/mirecekd)
 
----
-
-<div align="center">
-
-*"Technology enthusiast. IoT and OSS developer, home automation and smart home/house builder, 3D designer, 3D maker."*
-
-⭐ **If you like my projects, don't forget to give them a star!** ⭐
-
-</div>
-
-## Support
-
-You can support my free-time development:
+## ☕ Support
 
 <div align="center">
 
@@ -140,3 +176,4 @@ You can support my free-time development:
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:e7ac80,55:303635,100:202323" width="100%" alt="" />
